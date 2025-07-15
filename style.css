@@ -22,8 +22,8 @@ body {
 
 /* Sidebar - parte izquierda fija */
 .sidebar {
-  width: 320px;
-  background: linear-gradient(135deg, #138113 80%, #ff79a5 100%);
+  width: 500px;
+  background: linear-gradient(0deg, #000000 75%, #ff8fb5 25%);
   padding: 20px;
   overflow-y: auto;
   display: flex;
