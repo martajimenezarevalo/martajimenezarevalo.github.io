@@ -23,7 +23,7 @@ body {
 /* Sidebar - parte izquierda fija */
 .sidebar {
   width: 500px;
-  background: linear-gradient (180deg, #000000 100%, #ff4f8a 25%);
+  background: linear-gradient (180deg, #000000 70%, #ff4f8a 100%);
   padding: 20px;
   overflow-y: auto;
   display: flex;
@@ -35,7 +35,6 @@ body {
 .photo-container {
   width: 180px;
   height: 180px;
-  border-radius: 0%;
   overflow: hidden;
   border: 0px solid #3a9d23;
   margin-bottom: 20px;
