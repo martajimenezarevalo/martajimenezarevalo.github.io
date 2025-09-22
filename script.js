@@ -2,13 +2,13 @@
 const projects = [
   {
     type: 'image',
-    src: 'assets/proyecto1.jpg',
+    src: '',
     title: '...',
     description: '-'
   },
   {
     type: 'video',
-    src: 'assets/proyecto2.mp4',
+    src: '',
     title: '...',
     description: '-'
   },
