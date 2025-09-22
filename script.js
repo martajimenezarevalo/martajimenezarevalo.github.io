@@ -1,18 +1,6 @@
 // Datos de los proyectos
 const projects = [
-  {
-    type: 'image',
-    src: '',
-    title: '...',
-    description: '-'
-  },
-  {
-    type: 'video',
-    src: '',
-    title: '...',
-    description: '-'
-  },
-  // Puedes añadir hasta 16 proyectos aquí siguiendo el mismo formato
+   // Puedes añadir hasta 16 proyectos aquí siguiendo el mismo formato
 ];
 
 // Función para cargar proyectos en la web
