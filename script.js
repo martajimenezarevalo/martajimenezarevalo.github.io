@@ -3,38 +3,14 @@ const projects = [
   {
     type: 'image',
     src: 'assets/proyecto1.jpg',
-    title: 'Proyecto 1',
-    description: 'Descripción breve del proyecto 1 enfocado en tecnologías y arquitectura.'
+    title: '...',
+    description: '-'
   },
   {
     type: 'video',
     src: 'assets/proyecto2.mp4',
-    title: 'Proyecto 2',
-    description: 'Proyecto con video experimental y tech.'
-  },
-  {
-    type: 'image',
-    src: 'assets/proyecto3.jpg',
-    title: 'Proyecto 3',
-    description: 'Un proyecto destacado en investigación colectiva.'
-  },
-  {
-    type: 'image',
-    src: 'assets/proyecto4.jpg',
-    title: 'Proyecto 4',
-    description: 'este muy interesante'
-  },
-  {
-    type: 'video',
-    src: 'assets/proyecto5.mp4',
-    title: 'Proyecto 5',
-    description: 'evaluación de impactos'
-  },
-  {
-    type: 'image',
-    src: 'assets/proyecto6.jpg',
-    title: 'Proyecto 6',
-    description: 'futuro incierto'
+    title: '...',
+    description: '-'
   },
   // Puedes añadir hasta 16 proyectos aquí siguiendo el mismo formato
 ];
